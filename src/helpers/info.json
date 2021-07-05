@@ -1,0 +1,43 @@
+
+
+{
+    "location": {
+        "name": "Tlaxcala De Xicohtencatl",
+        "region": "Tlaxcala",
+        "country": "Mexico",
+        "lat": 19.32,
+        "lon": -98.2,
+        "tz_id": "America/Mexico_City",
+        "localtime_epoch": 1625204352,
+        "localtime": "2021-07-02 0:39"
+    },
+    "current": {
+        "last_updated_epoch": 1625203800,
+        "last_updated": "2021-07-02 00:30",
+        "temp_c": 12.5,
+        "temp_f": 54.5,
+        "is_day": 0,
+        "condition": {
+            "text": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/296.png",
+            "code": 1183
+        },
+        "wind_mph": 4.3,
+        "wind_kph": 6.8,
+        "wind_degree": 23,
+        "wind_dir": "NNE",
+        "pressure_mb": 1018.0,
+        "pressure_in": 30.5,
+        "precip_mm": 0.3,
+        "precip_in": 0.01,
+        "humidity": 92,
+        "cloud": 61,
+        "feelslike_c": 12.1,
+        "feelslike_f": 53.8,
+        "vis_km": 9.7,
+        "vis_miles": 6.0,
+        "uv": 1.0,
+        "gust_mph": 6.9,
+        "gust_kph": 11.2
+    }
+}
